@@ -1,0 +1,203 @@
+Création d'un labyrinthe de 25x17 dont les cases font 20 pixels.
+25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-D-S-D-S-D-S-S-S-S-S-D-S-S-S-S-S-S-S-S-S-S-S-D-D-S-D-S-D-S-D-S-D-D-D-S-D-S-D-S-D-S-D-D-D-D-D-D-D-D-S-S-S-60-S-S-S-D-S-F-S-S-S-D-S-D-S-D-S-S-S-S-S-D-D-D-D-D-D-D-D-10-D-S-D-D-D-D-D-D-D-F-D-D-D-S-D-D-D-D-S-S-S-S-S-S-S-D-B-S-S-D-B-S-F-80-S-S-S-50-S-S-S-D-D-S-D-D-D-D-D-S-D-S-D-D-D-D-D-D-D-D-D-D-D-S-D-S-D-D-S-D-S-D-S-S-S-D-20-10-F-D-S-S-B-50-S-S-S-D-S-D-S-D-D-D-D-S-D-D-D-S-D-D-D-D-D-D-D-D-D-S-D-D-D-B-D-D-D-D-S-S-S-D-S-D-S-S-S-S-S-S-F-D-S-S-S-D-F-D-S-S-S-D-D-D-D-S-D-S-D-D-D-S-D-D-D-S-D-S-D-B-D-S-D-S-D-D-D-D-S-D-S-S-F-S-S-S-S-D-S-D-S-D-S-D-S-S-S-D-S-S-S-D-D-S-D-D-D-S-D-D-D-S-D-S-D-S-D-S-D-D-D-D-D-D-D-S-D-D-S-D-S-80-40-D-S-S-S-S-S-D-S-S-S-20-S-S-F-D-S-S-S-D-D-S-D-S-D-D-D-S-D-D-D-S-D-D-D-D-D-D-D-S-D-D-D-S-D-D-S-S-S-D-S-S-S-D-S-S-S-S-S-D-S-S-S-S-S-S-S-D-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-1,1
+Le labyrinthe porte le numéro 10468.
+Le placement des bonus porte le numéro 13376;
+Il y a 1 joueur(s)
+Le labyrinthe contient un taux de dune de 50%, 8 frite(s), 10 moule(s) et 5 biére(s)
+Le port du serveur est le 1337. Le timeout pour chaque joueur est de 3000 ms. le délai d'attente minimum entre deux tours est de 100 ms.
+Les screenshots à chaque tour ne sont pas activés
+Serveur en attente de connexion
+************************************************************
+*    -->    14/02/2020 - 14:57:40                          *
+*       Connexion 0 - adresse : localhost, /127.0.0.1:59550
+************************************************************
+14022020-145740 -  envoi du numéro de joueur au joueur 0
+14022020-145741 -  envoi des infos du labyrinthe au joueur 0
+14022020-145741 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145741 -  envoi des infos du labyrinthe au joueur 0
+14022020-145741 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145741 -  envoi des infos du labyrinthe au joueur 0
+14022020-145741 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145742 -  envoi des infos du labyrinthe au joueur 0
+14022020-145742 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145743 -  envoi des infos du labyrinthe au joueur 0
+14022020-145743 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145744 -  envoi des infos du labyrinthe au joueur 0
+14022020-145744 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145745 -  envoi des infos du labyrinthe au joueur 0
+14022020-145745 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145746 -  envoi des infos du labyrinthe au joueur 0
+14022020-145746 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145747 -  envoi des infos du labyrinthe au joueur 0
+14022020-145747 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145748 -  envoi des infos du labyrinthe au joueur 0
+14022020-145748 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145748 -  envoi des infos du labyrinthe au joueur 0
+14022020-145748 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145748 -  envoi des infos du labyrinthe au joueur 0
+14022020-145748 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145748 -  envoi des infos du labyrinthe au joueur 0
+14022020-145748 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145748 -  envoi des infos du labyrinthe au joueur 0
+14022020-145748 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-145748 -  envoi des infos du labyrinthe au joueur 0
+14022020-145748 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 

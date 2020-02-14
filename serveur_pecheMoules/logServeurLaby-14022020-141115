@@ -1,0 +1,23 @@
+Création d'un labyrinthe de 25x17 dont les cases font 20 pixels.
+25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-S-S-S-S-D-S-S-S-S-S-D-S-S-S-D-S-S-S-D-S-S-S-D-D-D-D-S-D-S-D-D-D-S-D-D-D-S-D-S-D-D-D-S-D-D-D-S-D-D-S-D-S-D-S-S-S-D-S-S-S-S-S-D-S-S-S-S-S-S-S-S-S-D-D-S-D-D-D-S-D-D-D-S-D-D-D-D-D-S-D-D-D-D-D-D-D-S-D-D-S-S-10-S-B-30-20-D-S-D-S-S-S-D-F-D-S-D-S-D-F-S-S-D-D-S-D-D-D-D-D-S-D-D-D-S-D-D-D-S-D-S-D-S-D-S-D-D-D-D-S-D-F-F-S-S-S-S-S-S-50-B-S-D-S-D-S-S-S-S-S-S-S-D-D-S-D-D-D-S-D-S-D-D-D-D-D-D-D-10-D-D-D-S-D-D-D-D-D-D-S-S-S-D-S-D-S-S-S-F-S-S-S-S-S-D-S-S-S-S-80-S-S-D-D-D-D-S-D-D-D-S-D-D-D-D-D-B-D-D-D-S-D-D-D-S-D-S-D-D-S-D-F-S-S-D-F-D-S-S-B-S-S-S-20-D-S-D-S-S-50-D-S-D-D-S-D-S-D-S-D-D-D-B-D-S-D-D-D-D-D-10-D-D-D-S-D-S-D-D-S-S-S-D-S-D-S-S-S-D-S-D-F-D-S-S-40-D-S-S-S-D-S-D-D-S-D-D-D-D-D-D-D-S-D-S-D-S-D-S-D-S-D-S-D-D-D-D-D-D-S-S-S-S-S-S-S-D-S-D-S-D-S-S-S-D-S-D-S-S-S-S-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-1,1
+Le labyrinthe porte le numéro 30017.
+Le placement des bonus porte le numéro 32607;
+Il y a 1 joueur(s)
+Le labyrinthe contient un taux de dune de 50%, 8 frite(s), 10 moule(s) et 5 biére(s)
+Le port du serveur est le 1337. Le timeout pour chaque joueur est de 3000 ms. le délai d'attente minimum entre deux tours est de 100 ms.
+Les screenshots à chaque tour ne sont pas activés
+Serveur en attente de connexion
+************************************************************
+*    -->    14/02/2020 - 14:11:18                          *
+*       Connexion 0 - adresse : localhost, /127.0.0.1:58866
+************************************************************
+14022020-141118 -  envoi du numéro de joueur au joueur 0
+14022020-141119 -  envoi des infos du labyrinthe au joueur 0
+14022020-141119 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-141119 -  envoi des infos du labyrinthe au joueur 0
+14022020-141119 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+14022020-141119 -  envoi des infos du labyrinthe au joueur 0
+14022020-141119 - réception du message "25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-S-S-S-S-D-S-S-S-S-S-D-S-S-S-D-S-S-S-D-S-S-S-D-D-D-D-S-D-S-D-D-D-S-D-D-D-S-D-S-D-D-D-S-D-D-D-S-D-D-S-D-S-D-S-S-S-D-S-S-S-S-S-D-S-S-S-S-S-S-S-S-S-D-D-S-D-D-D-S-D-D-D-S-D-D-D-D-D-S-D-D-D-D-D-D-D-S-D-D-S-S-10-S-B-30-20-D-S-D-S-S-S-D-F-D-S-D-S-D-F-S-S-D-D-S-D-D-D-D-D-S-D-D-D-S-D-D-D-S-D-S-D-S-D-S-D-D-D-D-S-D-F-F-S-S-S-S-S-S-50-B-S-D-S-D-S-S-S-S-S-S-S-D-D-S-D-D-D-S-D-S-D-D-D-D-D-D-D-10-D-D-D-S-D-D-D-D-D-D-S-S-S-D-S-D-S-S-S-F-S-S-S-S-S-D-S-S-S-S-80-S-S-D-D-D-D-S-D-D-D-S-D-D-D-D-D-B-D-D-D-S-D-D-D-S-D-S-D-D-S-D-F-S-S-D-F-D-S-S-B-S-S-S-20-D-S-D-S-S-50-D-S-D-D-S-D-S-D-S-D-D-D-B-D-S-D-D-D-D-D-10-D-D-D-S-D-S-D-D-S-S-S-D-S-D-S-S-S-D-S-D-F-D-S-S-40-D-S-S-S-D-S-D-D-S-D-D-D-D-D-D-D-S-D-S-D-S-D-S-D-S-D-S-D-D-D-D-D-D-S-S-S-S-S-S-S-D-S-D-S-D-S-S-S-D-S-D-S-S-S-S-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-3,1" de la part du joueur 0
+Retour de l'exécution de la commande : 
