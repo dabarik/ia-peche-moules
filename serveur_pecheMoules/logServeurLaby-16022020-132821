@@ -1,0 +1,65 @@
+Création d'un labyrinthe de 25x17 dont les cases font 20 pixels.
+25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-S-S-S-S-S-S-D-S-S-S-S-S-D-S-S-S-D-S-S-S-D-S-D-D-D-D-S-D-D-D-S-D-D-D-D-D-S-D-S-D-D-D-S-D-S-D-S-D-D-S-S-S-S-S-D-S-S-30-B-S-S-30-D-S-S-S-D-F-D-S-S-S-D-D-S-D-D-D-D-D-D-D-D-D-D-D-S-D-S-D-S-D-D-D-S-D-D-D-D-S-D-S-D-S-D-S-90-S-F-S-S-S-D-S-D-F-S-S-D-S-D-S-D-D-S-D-S-D-S-D-S-D-S-D-S-D-D-D-F-D-D-D-D-D-S-D-S-D-D-S-D-S-S-S-D-S-D-10-D-30-D-S-S-S-S-S-D-S-S-S-S-S-D-D-D-D-D-D-S-D-D-D-S-D-D-D-D-D-S-D-S-D-S-D-S-D-D-D-D-S-S-S-D-S-60-10-B-S-D-S-80-S-S-S-D-S-D-S-D-B-S-S-D-D-S-D-S-D-D-D-S-D-D-D-S-D-F-D-S-D-D-D-D-D-F-D-D-D-D-S-D-B-D-S-D-S-20-S-S-F-D-S-D-10-D-B-D-S-S-S-S-S-D-D-S-D-S-D-S-D-D-D-S-D-S-D-S-D-S-D-S-D-D-D-D-D-S-D-D-S-D-S-S-S-S-S-S-S-D-S-D-S-D-S-S-S-S-S-F-S-S-S-D-D-S-D-D-D-D-D-S-D-D-D-S-D-S-D-D-D-D-D-S-D-D-D-S-D-D-S-D-S-S-S-S-S-S-S-D-S-D-S-S-S-S-S-D-S-D-S-S-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-1,1
+Le labyrinthe porte le numéro 13567.
+Le placement des bonus porte le numéro 59649;
+Il y a 1 joueur(s)
+Le labyrinthe contient un taux de dune de 50%, 8 frite(s), 10 moule(s) et 5 biére(s)
+Le port du serveur est le 1337. Le timeout pour chaque joueur est de 3000 ms. le délai d'attente minimum entre deux tours est de 100 ms.
+Les screenshots à chaque tour ne sont pas activés
+Serveur en attente de connexion
+************************************************************
+*    -->    16/02/2020 - 13:28:24                          *
+*       Connexion 0 - adresse : localhost, /127.0.0.1:35654
+************************************************************
+16022020-132824 -  envoi du numéro de joueur au joueur 0
+16022020-132825 -  envoi des infos du labyrinthe au joueur 0
+16022020-132825 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132825 -  envoi des infos du labyrinthe au joueur 0
+16022020-132825 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132825 -  envoi des infos du labyrinthe au joueur 0
+16022020-132825 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132826 -  envoi des infos du labyrinthe au joueur 0
+16022020-132826 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132827 -  envoi des infos du labyrinthe au joueur 0
+16022020-132827 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132827 -  envoi des infos du labyrinthe au joueur 0
+16022020-132827 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132827 -  envoi des infos du labyrinthe au joueur 0
+16022020-132827 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132827 -  envoi des infos du labyrinthe au joueur 0
+16022020-132827 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-132827 -  envoi des infos du labyrinthe au joueur 0
+16022020-132827 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 

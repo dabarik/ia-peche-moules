@@ -1,0 +1,299 @@
+Création d'un labyrinthe de 25x17 dont les cases font 20 pixels.
+25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-D-S-S-S-S-S-S-S-D-S-D-S-S-S-S-S-D-S-S-S-D-S-D-D-S-D-S-D-D-D-S-D-D-D-S-D-D-D-D-D-S-D-S-D-D-D-S-D-D-S-S-S-D-S-D-B-D-S-S-S-S-F-D-90-S-S-D-S-D-S-S-S-D-D-D-D-S-D-S-D-D-D-D-D-S-D-D-D-D-D-10-D-S-D-S-D-D-D-D-S-S-20-S-S-S-S-D-S-D-F-S-F-D-S-S-S-D-S-D-S-D-S-D-D-D-D-D-D-S-D-F-D-F-D-D-D-S-D-S-D-D-D-S-D-S-D-S-D-D-S-S-S-D-F-D-20-S-S-S-S-S-S-S-S-S-B-D-B-S-S-D-S-D-D-S-D-S-D-S-D-D-D-S-D-60-D-D-D-S-D-D-D-B-D-D-D-S-D-D-S-D-S-S-S-D-S-S-S-D-S-S-F-D-S-S-S-S-S-S-S-D-S-D-D-S-D-10-D-D-D-D-D-S-D-D-D-D-D-D-D-D-D-S-D-S-D-S-D-D-S-D-S-D-S-S-S-S-70-S-S-D-S-D-S-B-S-D-S-D-70-D-S-D-D-D-D-D-D-D-D-S-D-D-D-D-D-70-D-S-D-D-D-S-D-S-D-S-D-D-S-S-S-D-S-S-S-S-S-D-S-50-S-D-S-F-S-S-S-D-S-S-S-D-D-D-D-S-D-D-D-D-D-D-D-S-D-D-D-D-D-S-D-S-D-S-D-S-D-D-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-D-S-D-S-D-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-1,1
+Le labyrinthe porte le numéro 28097.
+Le placement des bonus porte le numéro 8390;
+Il y a 1 joueur(s)
+Le labyrinthe contient un taux de dune de 50%, 8 frite(s), 10 moule(s) et 5 biére(s)
+Le port du serveur est le 1337. Le timeout pour chaque joueur est de 3000 ms. le délai d'attente minimum entre deux tours est de 100 ms.
+Les screenshots à chaque tour ne sont pas activés
+Serveur en attente de connexion
+************************************************************
+*    -->    16/02/2020 - 13:42:15                          *
+*       Connexion 0 - adresse : localhost, /127.0.0.1:35718
+************************************************************
+16022020-134215 -  envoi du numéro de joueur au joueur 0
+16022020-134216 -  envoi des infos du labyrinthe au joueur 0
+16022020-134216 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134216 -  envoi des infos du labyrinthe au joueur 0
+16022020-134216 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134216 -  envoi des infos du labyrinthe au joueur 0
+16022020-134216 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134216 -  envoi des infos du labyrinthe au joueur 0
+16022020-134216 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134216 -  envoi des infos du labyrinthe au joueur 0
+16022020-134216 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134216 -  envoi des infos du labyrinthe au joueur 0
+16022020-134216 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134217 -  envoi des infos du labyrinthe au joueur 0
+16022020-134217 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134218 -  envoi des infos du labyrinthe au joueur 0
+16022020-134218 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134218 -  envoi des infos du labyrinthe au joueur 0
+16022020-134218 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134218 -  envoi des infos du labyrinthe au joueur 0
+16022020-134218 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134218 -  envoi des infos du labyrinthe au joueur 0
+16022020-134218 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134218 -  envoi des infos du labyrinthe au joueur 0
+16022020-134218 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134218 -  envoi des infos du labyrinthe au joueur 0
+16022020-134218 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134218 -  envoi des infos du labyrinthe au joueur 0
+16022020-134218 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134218 -  envoi des infos du labyrinthe au joueur 0
+16022020-134218 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134219 -  envoi des infos du labyrinthe au joueur 0
+16022020-134219 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134220 -  envoi des infos du labyrinthe au joueur 0
+16022020-134220 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134221 -  envoi des infos du labyrinthe au joueur 0
+16022020-134221 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134222 -  envoi des infos du labyrinthe au joueur 0
+16022020-134222 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134223 -  envoi des infos du labyrinthe au joueur 0
+16022020-134223 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134224 -  envoi des infos du labyrinthe au joueur 0
+16022020-134224 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134225 -  envoi des infos du labyrinthe au joueur 0
+16022020-134225 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134226 -  envoi des infos du labyrinthe au joueur 0
+16022020-134226 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134226 -  envoi des infos du labyrinthe au joueur 0
+16022020-134226 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134226 -  envoi des infos du labyrinthe au joueur 0
+16022020-134226 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134226 -  envoi des infos du labyrinthe au joueur 0
+16022020-134226 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134226 -  envoi des infos du labyrinthe au joueur 0
+16022020-134226 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134226 -  envoi des infos du labyrinthe au joueur 0
+16022020-134226 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134226 -  envoi des infos du labyrinthe au joueur 0
+16022020-134226 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+16022020-134226 -  envoi des infos du labyrinthe au joueur 0
+16022020-134226 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 

@@ -1,0 +1,17 @@
+Création d'un labyrinthe de 25x17 dont les cases font 20 pixels.
+25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-S-S-D-S-S-S-D-S-S-S-D-S-S-S-D-S-S-S-D-S-S-S-D-D-S-D-S-D-S-D-D-D-D-D-S-D-S-D-D-D-D-D-S-D-S-D-D-D-D-S-D-S-S-S-S-S-D-S-S-S-S-S-S-S-60-10-S-S-D-S-S-S-D-D-D-D-D-D-S-D-D-D-D-D-S-D-D-D-S-D-D-D-D-D-D-D-S-D-D-S-S-S-S-S-D-S-S-S-D-20-S-S-D-S-D-S-S-S-80-S-S-S-D-D-D-D-D-D-B-D-D-D-S-D-D-D-D-D-S-D-S-D-D-D-F-D-D-D-D-S-D-S-F-S-D-B-S-S-D-S-D-10-S-S-D-S-D-S-D-30-S-S-D-D-S-D-D-D-S-D-S-D-D-D-F-D-S-D-D-D-B-D-S-D-D-D-S-D-D-S-S-F-S-S-D-S-S-S-S-S-D-S-D-F-S-S-D-S-S-S-S-S-D-D-S-D-30-D-D-D-S-D-S-D-D-D-S-D-20-D-D-D-S-D-D-D-S-D-D-S-D-S-D-S-S-S-D-S-S-S-D-S-D-40-S-S-D-S-D-S-D-S-D-D-D-D-S-D-60-D-S-D-S-D-S-D-S-D-D-D-D-D-F-D-S-D-D-D-D-S-S-S-D-S-D-B-D-S-D-F-F-S-S-S-S-S-S-B-S-S-S-S-D-D-S-D-D-D-S-D-D-D-D-D-S-D-S-D-D-D-D-D-D-D-S-D-S-D-D-S-S-S-S-S-S-S-S-S-D-S-D-S-S-S-S-S-D-S-S-S-D-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-1,1
+Le labyrinthe porte le numéro 49009.
+Le placement des bonus porte le numéro 13763;
+Il y a 1 joueur(s)
+Le labyrinthe contient un taux de dune de 50%, 8 frite(s), 10 moule(s) et 5 biére(s)
+Le port du serveur est le 1337. Le timeout pour chaque joueur est de 3000 ms. le délai d'attente minimum entre deux tours est de 100 ms.
+Les screenshots à chaque tour ne sont pas activés
+Serveur en attente de connexion
+************************************************************
+*    -->    15/02/2020 - 13:22:05                          *
+*       Connexion 0 - adresse : localhost, /127.0.0.1:34912
+************************************************************
+15022020-132205 -  envoi du numéro de joueur au joueur 0
+15022020-132206 -  envoi des infos du labyrinthe au joueur 0
+15022020-132206 - réception du message "25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-S-S-D-S-S-S-D-S-S-S-D-S-S-S-D-S-S-S-D-S-S-S-D-D-S-D-S-D-S-D-D-D-D-D-S-D-S-D-D-D-D-D-S-D-S-D-D-D-D-S-D-S-S-S-S-S-D-S-S-S-S-S-S-S-60-10-S-S-D-S-S-S-D-D-D-D-D-D-S-D-D-D-D-D-S-D-D-D-S-D-D-D-D-D-D-D-S-D-D-S-S-S-S-S-D-S-S-S-D-20-S-S-D-S-D-S-S-S-80-S-S-S-D-D-D-D-D-D-B-D-D-D-S-D-D-D-D-D-S-D-S-D-D-D-F-D-D-D-D-S-D-S-F-S-D-B-S-S-D-S-D-10-S-S-D-S-D-S-D-30-S-S-D-D-S-D-D-D-S-D-S-D-D-D-F-D-S-D-D-D-B-D-S-D-D-D-S-D-D-S-S-F-S-S-D-S-S-S-S-S-D-S-D-F-S-S-D-S-S-S-S-S-D-D-S-D-30-D-D-D-S-D-S-D-D-D-S-D-20-D-D-D-S-D-D-D-S-D-D-S-D-S-D-S-S-S-D-S-S-S-D-S-D-40-S-S-D-S-D-S-D-S-D-D-D-D-S-D-60-D-S-D-S-D-S-D-S-D-D-D-D-D-F-D-S-D-D-D-D-S-S-S-D-S-D-B-D-S-D-F-F-S-S-S-S-S-S-B-S-S-S-S-D-D-S-D-D-D-S-D-D-D-D-D-S-D-S-D-D-D-D-D-D-D-S-D-S-D-D-S-S-S-S-S-S-S-S-S-D-S-D-S-S-S-S-S-D-S-S-S-D-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-1,1" de la part du joueur 0
+Retour de l'exécution de la commande : 

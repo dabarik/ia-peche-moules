@@ -12,6 +12,8 @@ public class Client {
 		}
 		Random rand = new Random();
 
+		String direction = "";
+
 		try {
 			Socket s = new Socket(args[0], Integer.parseInt(args[1]));
 			boolean fin = false;
@@ -81,60 +83,170 @@ public class Client {
 					 * if(number == 3){ msg = "O"; } else{ msg = "N"; }
 					 */
 
-					/*if (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() + 1,
-							laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() != 1) {
-						msg = "E";
-					} else {
-						if (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
-								laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() + 1).getType() != 1) {
-							msg = "S";
-						} else if (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() + 1,
-										laby.getJoueur(Integer.parseInt(numJoueur)).getPosY())
-								.getType() == 1
-								|| laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() - 1,
-										laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() == 1) {
-							msg = "N";
+					int PosX = laby.getJoueur(Integer.parseInt(numJoueur)).getPosX();
+					int PosY = laby.getJoueur(Integer.parseInt(numJoueur)).getPosY();
 
+					if (PosX == 1 && PosY == 1) {
+						if (laby.getXY(PosX + 1, PosY).getType() != 1) {
+							msg = "E";
+							direction = msg;
+						} else if (laby.getXY(PosX, PosY + 1).getType() != 1) {
+							msg = "S";
+							direction = msg;
+						} else if (laby.getXY(PosX, PosY - 1).getType() != 1) {
+							msg = "N";
+							direction = msg;
 						} else {
-							if (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() - 1,
-									laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() != 1) {
-								msg = "O";
+							msg = "O";
+							direction = msg;
+						}
+					}
+
+					if (direction == "E") {
+						if (laby.getXY(PosX, PosY + 1).getType() != 1) {
+							msg = "S";
+							direction = msg;
+						} else {
+							if (laby.getXY(PosX + 1, PosY).getType() != 1) {
+								msg = "E";
+								direction = msg;
 							} else {
-								if (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
-										laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() - 1).getType() != 1) {
+								if (laby.getXY(PosX, PosY - 1).getType() != 1) {
 									msg = "N";
+									direction = msg;
+								} else {
+									msg = "O";
+									direction = msg;
 								}
 							}
 						}
-					}*/
+					}
 
-					
+					else if (direction == "O") {
+						if (laby.getXY(PosX, PosY - 1).getType() != 1) {
+							msg = "N";
+							direction = msg;
+						} else {
+							if (laby.getXY(PosX - 1, PosY).getType() != 1) {
+								msg = "O";
+								direction = msg;
+							} else {
+								if (laby.getXY(PosX, PosY + 1).getType() != 1) {
+									msg = "S";
+									direction = msg;
+								} else {
+									msg = "E";
+									direction = msg;
+								}
+							}
+						}
+					}
+
+					else if (direction == "N") {
+						if (laby.getXY(PosX + 1, PosY).getType() != 1) {
+							msg = "E";
+							direction = msg;
+						} else {
+							if (laby.getXY(PosX, PosY - 1).getType() != 1) {
+								msg = "N";
+								direction = msg;
+							} else {
+								if (laby.getXY(PosX - 1, PosY).getType() != 1) {
+									msg = "O";
+									direction = msg;
+								} else {
+									msg = "S";
+									direction = msg;
+								}
+							}
+						}
+					}
+
+					else if (direction == "S") {
+						if (laby.getXY(PosX - 1, PosY).getType() != 1) {
+							msg = "O";
+							direction = msg;
+						} else {
+							if (laby.getXY(PosX, PosY + 1).getType() != 1) {
+								msg = "S";
+								direction = msg;
+							} else {
+								if (laby.getXY(PosX + 1, PosY).getType() != 1) {
+									msg = "E";
+									direction = msg;
+								} else {
+									msg = "N";
+									direction = msg;
+								}
+							}
+						}
+					}
 
 					/*
-					 * while (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() ,
+					 * if(direction == "O"){ if (laby.getXY(PosX - 1, PosY).getType() == 1){
+					 * if(laby.getXY(PosX, PosY - 1).getType() != 1){ msg = "N"; direction = msg;
+					 * }else{ msg = "E"; direction = msg; } }else{ msg = "O"; direction = msg; } }
+					 * 
+					 * if(direction == "N"){ if (laby.getXY(PosX , PosY - 1).getType() == 1){
+					 * if(laby.getXY(PosX + 1, PosY).getType() != 1){ msg = "E"; direction = msg;
+					 * }else{ msg = "S"; direction = msg; } }else{ msg = "N"; direction = msg; } }
+					 * 
+					 * if(direction == "S"){ if (laby.getXY(PosX , PosY + 1).getType() == 1){
+					 * if(laby.getXY(PosX - 1, PosY).getType() != 1){ msg = "O"; direction = msg;
+					 * }else{ msg = "N"; direction = msg; } }else{ msg = "S"; direction = msg; } }
+					 */
+
+					/*
+					 * if (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() + 1,
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() != 1) { msg
+					 * = "E"; } else { if
+					 * (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() + 1).getType() != 1) {
+					 * msg = "S"; } else if (laby
+					 * .getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() + 1,
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()) .getType() == 1 ||
+					 * laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() - 1,
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() == 1) { msg
+					 * = "N";
+					 * 
+					 * } else { if (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX()
+					 * - 1, laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() != 1) {
+					 * msg = "O"; } else { if
+					 * (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() - 1).getType() != 1) {
+					 * msg = "N"; } } } }
+					 */
+
+					/*
+					 * while (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
 					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() == 4) { if
 					 * (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() + 1,
 					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() != 1) { msg
 					 * = "E"; } else if
-					 * (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() ,
-					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() - 1).getType() != 1){
+					 * (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() - 1).getType() != 1) {
 					 * msg = "N"; } else if
 					 * (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() - 1,
-					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() != 1){ msg =
-					 * "O"; } else if
-					 * (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() ,
-					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() + 1).getType() != 1){
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType() != 1) { msg
+					 * = "O"; } else if
+					 * (laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() + 1).getType() != 1) {
 					 * msg = "S"; } }
 					 */
 
-					System.out.println(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX());
-					System.out.println(laby.getJoueur(Integer.parseInt(numJoueur)).getPosY());
-					System.out.println((laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX() - 1,
-							laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType()));
-					System.out.println((laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
-							laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() + 1).getType()));
-					System.out.println((laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX(),
-							laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() - 1).getType()));
+					/*
+					 * System.out.println(laby.getJoueur(Integer.parseInt(numJoueur)).getPosX());
+					 * System.out.println(laby.getJoueur(Integer.parseInt(numJoueur)).getPosY());
+					 * System.out.println((laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).
+					 * getPosX() - 1,
+					 * laby.getJoueur(Integer.parseInt(numJoueur)).getPosY()).getType()));
+					 * System.out.println((laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).
+					 * getPosX(), laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() +
+					 * 1).getType()));
+					 * System.out.println((laby.getXY(laby.getJoueur(Integer.parseInt(numJoueur)).
+					 * getPosX(), laby.getJoueur(Integer.parseInt(numJoueur)).getPosY() -
+					 * 1).getType()));
+					 */
 
 					/*
 					 * var compteur = 0;
